@@ -10,6 +10,8 @@ public class Alco {
 		while(true){
 			System.out.println("Shraddah");
 		}
+		
+		System.out.println("extra");
 
 	}
 
