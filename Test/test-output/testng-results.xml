@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88914" started-at="2014-05-30T01:16:11Z" finished-at="2014-05-30T01:17:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88914" started-at="2014-05-30T01:16:11Z" finished-at="2014-05-30T01:17:40Z">
+      <class name="seleniumtest.alcostore_link">
+        <test-method status="PASS" signature="checkalllinks()[pri:0, instance:seleniumtest.alcostore_link@5a01ccaa]" name="checkalllinks" duration-ms="88897" started-at="2014-05-29T18:16:11Z" finished-at="2014-05-29T18:17:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkalllinks -->
+      </class> <!-- seleniumtest.alcostore_link -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
