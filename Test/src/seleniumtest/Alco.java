@@ -9,14 +9,7 @@ public class Alco {
 		System.out.println("Shrddha");
 		while(true){
 			System.out.println("Shraddah");
-			System.out.println("");
-
-			
 		}
-		
-			
-
-
 	}
 
 }
