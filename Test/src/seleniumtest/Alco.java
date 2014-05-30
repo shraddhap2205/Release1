@@ -7,7 +7,7 @@ public class Alco {
 		System.out.println("hi==");
 		System.out.println("");
 		System.out.println("Shrddha");
-		While(true){
+		while(true){
 			System.out.println("Shraddah");
 		}
 
