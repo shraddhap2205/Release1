@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="24" started-at="2014-05-31T06:30:46Z" finished-at="2014-05-31T06:30:46Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="24" started-at="2014-05-31T06:30:46Z" finished-at="2014-05-31T06:30:46Z">
+      <class name="com.test.myTest">
+        <test-method status="PASS" signature="checkin()[pri:0, instance:com.test.myTest@100fc185]" name="checkin" duration-ms="11" started-at="2014-05-30T23:30:46Z" finished-at="2014-05-30T23:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkin -->
+      </class> <!-- com.test.myTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
