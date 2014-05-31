@@ -65,14 +65,7 @@
 			<mkdir dir="${test.dest}"/>
 	        <echo message="classpath------: ${test.classpath}"/>
 	        <echo message="compiling..."/>
-	        <javac 
-	            debug="true" 
-	            destdir="${test.dest}" 
-	            srcdir="${test.src}" 
-	            target="1.5" 
-	            classpath="${test.classpath}"
-	        >
-	        </javac>
+	    	<javac classpath="${test.classpath}" target="1.7" compiler="javac1.6" srcdir="${test.src}" destdir="${test.dest}" debug="true"> </javac>
 	    	 <copy todir="${test.dest}">
 	    	            <fileset dir="${test.src}" excludes="**/*.java"/>
 	    	  </copy>
